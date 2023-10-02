@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Darko96/calculator]
-- Live Site URL: [https://darko96.github.io/calculator/]
+- Solution URL: [https://github.com/Darko96/password-generator-app-deploy]
+- Live Site URL: [https://darko96.github.io/password-generator-app-deploy/]
 
 ## My process
 
